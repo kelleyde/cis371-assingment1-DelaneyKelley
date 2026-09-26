@@ -11,7 +11,7 @@ header > h1 {
   justify-content: left;
 }
 
-/* Removing bullets from unordered list, posted on: StackOverflow, accessed: 9/25/26 */
+/* Removing bullets from unordered list, posted on: StackOverflow, by: Amrinder Singh, accessed: 9/25/26 */
 /* https://stackoverflow.com/questions/33075940/removing-bullets-from-unordered-list */
 header > nav > ul {
   display: flex;
