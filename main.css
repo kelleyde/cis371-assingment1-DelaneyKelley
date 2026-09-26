@@ -11,9 +11,8 @@ header > h1 {
   justify-content: left;
 }
 
-
+/* Removing bullets from unordered list, posted on: StackOverflow, accessed: 9/25/26 */
 /* https://stackoverflow.com/questions/33075940/removing-bullets-from-unordered-list */
-/* https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
 header > nav > ul {
   display: flex;
   flex-direction: row;
@@ -33,7 +32,9 @@ footer {
   background-color: rgb(227, 203, 104);
 }
 
+/* The Magic of CSS Grid AUTO-FIT vs AUTO-FILL, by: DesignCourse, accessed: 9/25/26 */
 /* https://www.youtube.com/watch?v=qII5BueXWD4&t=357s */
+/* Create Responsive CSS Grid Layouts with GRID WRAPPING, by: Coding2GO, accessed: 9/25/26 */
 /* https://www.youtube.com/watch?v=3T0gjtXRNC0&t=6s */
 main {
   display: grid;
@@ -43,6 +44,7 @@ main {
   gap: 1em;
 }
 
+/* CSS Image Auto Resizing to Fit a Div Container, by: geeks4geeks, accessed: 9/25/26 */
 /* https://www.geeksforgeeks.org/css/how-to-auto-resize-an-image-to-fit-a-div-container-using-css/ */
 div.store-item img {
   display: block;
